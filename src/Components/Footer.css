@@ -1,0 +1,39 @@
+.footer {
+    color:white;
+    background-color: black;    
+}
+
+.footer .h5{
+    text-align: center;
+    color: white;
+}
+footer svg {
+    width: 24px;
+    height: 24px;
+}
+.leftFooter {
+    margin-left: 20px;
+}
+
+.rightFooter {
+    margin-right: 20px;
+}
+
+footer .Complain {
+    text-align: right;
+    color: white;
+    margin-left:25px;
+}
+
+
+@media (max-width:768px) { 
+    footer > div {
+        flex-direction: column;
+    }
+
+ footer .footer-group {
+    margin-bottom: 1.5rem;
+}
+
+}
+

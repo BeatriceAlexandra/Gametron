@@ -1,0 +1,57 @@
+.border-bottom {
+    /* background-color: #aae9e6; */
+    width:100%;
+    height:auto;
+    background-color: black;
+}
+
+
+header .logo {
+    width: 200px;
+    height: auto;
+    margin-left: 10px;
+
+}
+
+header .h5{
+    color: white;
+    
+}
+header .logout:hover {
+    cursor: pointer;
+    text-decoration: underline;
+    margin-bottom: 3;
+}
+
+/* pentru animatie */
+
+header .text {
+    
+    color: hsl(273, 60%, 97%);
+    font-size: 50px;
+    font-weight: bold;
+    font-family:lucisa sans ;
+    letter-spacing: 8px;
+    cursor: pointer;
+    background: linear-gradient(
+        to right, 
+        rgb(239, 235, 241) 0, 
+        rgb(199, 154, 219) 10%, 
+        #8858ED 20%
+    );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+     animation: shine 3s infinite linear;
+}
+
+@keyframes shine {
+    0% {
+        background-position: 0;
+    }
+    /* 60% {
+        background-position: 890px;
+    } */
+    100% {
+        background-position: 905px;
+    }
+}

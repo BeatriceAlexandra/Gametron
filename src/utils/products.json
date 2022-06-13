@@ -1,0 +1,227 @@
+{
+    "Mouse": {
+        "items": [
+            {
+                "id": 1,
+                "name": "EVGA TORQ X10 gaming mouse",
+                "price": 145,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/cQqez1V.jpeg",
+                "colour": "Negru",
+                "brand": "EVGA",
+                "description": "Mouse gaming"
+                
+            },
+            {
+                "id": 2,
+                "name": "Mouse gaming wireless Redragon Sniper Pro, Iluminare RGB, Negru",
+                "price": 110,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/voq4ZIc.jpg",
+                "colour": "Negru",
+                "brand": "Redragon",
+                "description": "Mouse gaming wireless Redragon Sniper Pro, Iluminare RGB, Negru"
+            },
+            {
+                "id": 3,
+                "name": "Mouse UHURU Wireless",
+                "price": 195,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/ToJUXP7.jpg",
+                "colour": "Negru",
+                "brand": "UHURU",
+                "description": "Gaming Mouse, Gaming Mice with 10000 DPI, 6 Programmable Buttons, 7 LED Light, Gaming Software & Ergonomic Design for PC & Laptop"
+            }
+        ],
+        "image": "https://imgur.com/nKv7A24.png",
+        "name": "MOUSE",
+        "description": "Experiență de neuitat"
+    },
+    "Monitoare": {
+        "items": [
+            {
+                "id": 4,
+                "name": "Monitor gaming LED VA Asus ROG Strix 31.5, Curbat, WQHD, 144Hz, Display Port, Negru, XG32VQ",
+                "price": 3.289 ,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/DOo3FSu.jpg",
+                "colour": "Negru",
+                "brand": "Asus",
+                "description": "Monitor gaming LED VA Asus ROG Strix 31.5, Curbat, WQHD, 144Hz, Display Port, Negru, XG32VQ"
+            },
+            {
+                "id": 5,
+                "name": "GIGABYTE G32QC A Monitor Gaming",
+                "price": 2347,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/fniZmoi.jpg",
+                "colour": "Negru",
+                "brand": "GIGABYTE",
+                "description": "GIGABYTE G32QC A Monitor Gaming."
+            },
+            {
+                "id": 6,
+                "name": "Monitor Gaming UltraGear LED IPS LG 27, WQHD, 1ms, 144Hz, G-Sync Compatible, FreeSync, DisplayPort, HDMI,Vesa, Negru, 27GN800",
+                "price": 1998,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/yGade1H.jpg",
+                "colour": "Negru",
+                "brand": "SELECTED",
+                "description": "Monitor Gaming UltraGear LED IPS LG 27, WQHD, 1ms, 144Hz, G-Sync Compatible, FreeSync, DisplayPort, HDMI,Vesa, Negru, 27GN800."
+            }
+     
+        ],
+        "image": "https://i.imgur.com/ysaBweV.jpg",
+        "name": "MONITOR",
+        "description": "O gamă variată de monitoare de gaming"
+    },
+    "Tastaturi": {
+        "items": [
+            {
+                "id": 7,
+                "name": "Tastatura Gaming mecanica HyperX Alloy Elite 2 HX Red, USB, Layout US, negru",
+                "price": 384,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/LZq1TQE.jpg",
+                "colour": "Negru",
+                "brand": "HyperX",
+                "description": "Tastatura Gaming mecanica HyperX Alloy Elite 2 HX Red, USB, Layout US, negru."
+            },
+            {
+                "id": 8,
+                "name": "Tastatura Gaming A4tech Bloody B314 black",
+                "price": 145,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/TbOfmti.jpeg",
+                "colour": "Negru",
+                "brand": "A4tech",
+                "description": "Tastatura Gaming A4tech Bloody B314 black."
+            },
+            {
+                "id": 9,
+                "name": "Tastatura Gaming A4tech Bloody B314 black",
+                "price": 145,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/5GoVhH9.png",
+                "colour": "Negru",
+                "brand": "A4tech",
+                "description": "Tastatura Gaming A4tech Bloody B314 black."
+            }
+        ],
+        "image": "https://i.imgur.com/5GoVhH9.png",
+        "name": "TASTATURĂ",
+        "description": "Tastaturi pentru gaming"
+    },
+    "Carcase gaming": {
+        "items": [
+            {
+                "id": 10,
+                "name": "Carcasa A",
+                "price": 220,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/G14THBh.jpg",
+                "colour": "Gri închis",
+                "brand": "Zeinner",
+                "description": "Incapatoare, material rezistent."
+            },
+            {
+                "id": 11,
+                "name": "Carcasa B",
+                "price": 260,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/H2J9kAt.jpg",
+                "colour": "Negru",
+                "brand": "AGTE",
+                "description": "Incap 2 placi videp"
+            },
+
+            {
+                "id": 12,
+                "name": "Carcasa C",
+                "price": 260,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/UGNcIrs.jpg",
+                "colour": "Negru",
+                "brand": "AGTE",
+                "description": "Incap 2 placi videp"
+            }
+        ],
+        "image": "https://imgur.com/A2kGH6x.png",
+        "name": "CARCASĂ GAMING",
+        "description": "Carcase profesionale"
+    },
+    "Casti": {
+        "items": [
+            {
+                "id": 13,
+                "name": "Casti A",
+                "price": 100,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/LN7fstV.jpg",
+                "colour": "Negru",
+                "brand": "Sony",
+                "description": "Experienta audio"
+            },
+            {
+                "id": 14,
+                "name": "Casti B",
+                "price": 130,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/gCtZQFn.jpg",
+                "colour": "Negru",
+                "brand": "SENNHEISER",
+                "description": "75 sajhbdjkj dw"
+            },
+            {
+                "id": 15,
+                "name": "Casti C",
+                "price": 1805,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/aGb7SzI.jpg",
+                "colour": "Negru",
+                "brand": "MONSTER",
+                "description": "For a monster experience"
+            }
+        ],
+        "image": "https://i.imgur.com/PhWEJx9.jpg",
+        "name": "CĂȘTI",
+        "description": "Top Headset"
+    },
+    "Laptopuri": {
+        "items": [
+            {
+                "id": 16,
+                "name": "Laptop",
+                "price": 9500,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/NVkWPrg.jpg",
+                "colour": "negru",
+                "brand": "Gametron",
+                "description": "Placa de baza x, placa video y"
+            },
+            {
+                "id": 17,
+                "name": "Laptop Apple",
+                "price": 7000,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/fjXz6jo.jpg",
+                "colour": "Negru",
+                "brand": "Apple",
+                "description": "Placa de baza x, placa video y"
+            },
+            {
+                "id": 18,
+                "name": "Laptop A",
+                "price": 7000,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/Ghjtwic.jpg",
+                "colour": "Negru",
+                "brand": "Apple",
+                "description": "Placa de baza x, placa video y"
+            }
+        ],
+        "image": "https://imgur.com/MKr7qKc.png",
+        "name": "LAPTOP",
+        "description": "Laptopuri gaming"
+    }
+}

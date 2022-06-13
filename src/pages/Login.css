@@ -1,0 +1,36 @@
+.login-page {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color:black;
+}
+
+.login-page img {
+    margin-top: 10px;
+    width: 300px;
+}
+.login-page .h2 {
+    color: #8858ed;
+    font-size:50px;
+}
+.login-page .loginButton {
+    padding:5px;
+    margin-left: 40px;
+    margin-top: 20px;
+    margin-bottom: 10px;;
+}
+
+.login-page .text {
+    margin-left: 10px;
+}
+
+.login-page .Google {
+    padding:5px;
+    margin-left: 10px;
+    margin-top: 20px;
+    margin-bottom: 10px;;
+}
